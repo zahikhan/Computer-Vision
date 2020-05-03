@@ -1,0 +1,1 @@
+The basics of image processing with filtering
